@@ -2,6 +2,9 @@
 in which the shift is always 13. 
 So every letter is shifted 13 places to encrypt or to decrypt the message. """
 
+# We can ask the user to enter a text 
+# and encrypt it using ROT13    
+
 # Ask for the initial text 
 text = input("Put in the text you want to encrypt/decrypt.")
 # Change the text to lower-case 
