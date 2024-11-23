@@ -1,3 +1,5 @@
+ROT13
+
 This Python code implements the ROT13 cipher, a simple encryption and decryption method that shifts each letter of the text by 13 positions in the alphabet. It is often used as a lightweight way to obscure text, as applying ROT13 twice (once to encrypt and once to decrypt) returns the original text.
 
 Step-by-Step Breakdown of the Code:
