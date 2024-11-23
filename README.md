@@ -1,6 +1,3 @@
-Encryption is a method of data security that converts data from a readable format into an encoded format that can only be read or processed after it has been decrypted using a cryptographic key. It’s a common process in cryptography that encodes a message or information so that only authorized parties can access it and those who are not authorized cannot.
-
-Encryption is essential to cybersecurity and data protection, as it protects private information and sensitive data and enhances the security of communication between client apps and servers. Encryption is critical to every organization because it protects confidential data by converting it into ciphertext.
 This Python code implements the ROT13 cipher, a simple encryption and decryption method that shifts each letter of the text by 13 positions in the alphabet. It is often used as a lightweight way to obscure text, as applying ROT13 twice (once to encrypt and once to decrypt) returns the original text.
 
 Step-by-Step Breakdown of the Code:
